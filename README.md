@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @XiaoCheng-4615
-- 👀 I’m interested in dev Web or dev discord bot
-- 🌱 I’m currently learning lua,html.node.js,javascript,php
-- 📫 How to reach me ... XiaoCheng#3399
+- 👋 哈囉 我是 @XiaoCheng-4615
+- 👀 我的興趣是 開發
+- 🌱我正在學習的程式語言 lua,html,javascript,php
+- 📫 DISCORD  ... xiaocheng0207
+
 
 <!---
 XiaoCheng-4615/XiaoCheng-4615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
